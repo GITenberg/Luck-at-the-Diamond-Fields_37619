@@ -1,0 +1,32 @@
+_repo: Luck-at-the-Diamond-Fields_37619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belgrave, Dalrymple J.
+    gutenberg_agent_id: '38951'
+    url: http://www.gutenberg.org/2009/agents/38951
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Diamond mines and mining -- South Africa -- Fiction'
+- !lcsh 'Kimberley (South Africa) -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+- !lcc 'PR'
+tableOfContents: 'A tale of the Kimberly Coach -- Kitty of "The Frozen Bar" -- Diamond
+  cut diamond -- The Farm Boschfontein -- Luck: an episode in a digger''s life --
+  A dear lesson -- A Vaal River heiress -- A duel at "poker" -- "A whiskey drinker"
+  -- Jumped: a tale of the Kimberley races -- A queer race -- A compact -- A fatal
+  diamond.'
+title: Luck at the Diamond Fields
+url: http://www.gutenberg.org/ebooks/37619
